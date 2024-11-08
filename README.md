@@ -1,2 +1,16 @@
-# JAVA23-TDD-Miniprojekt1-Nikolina-Vikberg
-Prime Number Project TTD
+# Prime Number Counter
+
+# Nikolina Vikberg, Malmö 2024
+
+## A simple Java program that counts and sums prime numbers within a specified range (0–1000). The program also includes validation for input ranges and handles edge cases.
+
+### Features
+- Count Prime Numbers: Calculates the number of prime numbers within a given range.
+- Sum of Prime Numbers: Calculates the sum of all prime numbers within a given range.
+- Input Validation: Ensures valid input ranges (0–1000) and handles edge cases.
+- Error Handling: Displays user-friendly error messages if an invalid range is provided.<br>
+### How It Works
+- Prime Check: The isPrime() method checks whether a given number is prime.
+- Count Primes: The countPrime() method counts how many prime numbers are in the specified range.
+- Sum Primes: The sumOfPrime() method calculates the sum of all prime numbers in the specified range.
+- Output: The program displays the results in a user-friendly format with the methods printCount() and printSum().
