@@ -13,4 +13,8 @@
 - Prime Check: The isPrime() method checks whether a given number is prime.
 - Count Primes: The countPrime() method counts how many prime numbers are in the specified range.
 - Sum Primes: The sumOfPrime() method calculates the sum of all prime numbers in the specified range.
-- Output: The program displays the results in a user-friendly format with the methods printCount() and printSum().
+- Output: The program displays the results in a user-friendly format with the methods printCount() and printSum(). <br>
+
+<img width="485" alt="Skärmbild 2024-11-08 123414" src="https://github.com/user-attachments/assets/ed6d81ce-b6be-4b1f-af80-1e614538ac95"> <br>
+
+<img width="684" alt="Skärmbild 2024-11-08 123329" src="https://github.com/user-attachments/assets/57a55da6-3541-47b3-b073-d7e32cbf2acb">
